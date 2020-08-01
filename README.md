@@ -33,5 +33,9 @@ This repo contains 4 files. - Starbucks_Capstone_notebook.ipynb : the code noteb
 Profile.json - 2. Portfolio.json - 3. transcript.json : kaggle (https://www.kaggle.com/blacktile/starbucks-app-customer-reward-program-data) , I can't upload this file
 here because it's size exceed the git-hub condition (25mb).
 
+## Links for project :
+- Code for this project is present - https://github.com/bhaveshjakhar/Capstone-project-starbucks/blob/master/Starbucks_Capstone_notebook.ipynb
+- Blog Post Report for this project present - https://github.com/bhaveshjakhar/Capstone-project-starbucks/blob/master/Capstone_Project_Report_bhav.pdf
+
 ## Licensing, Authors, Acknowledgements:
 Data for coding project was provided by Udacity
